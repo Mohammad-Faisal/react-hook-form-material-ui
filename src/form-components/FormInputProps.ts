@@ -1,4 +1,6 @@
 export interface FormInputProps {
-    name: string
-    label: string
+  name: string;
+  control: any;
+  label: string;
+  setValue?: any;
 }

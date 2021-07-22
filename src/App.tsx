@@ -1,10 +1,9 @@
-import React from 'react';
-import {FormDemo} from "./FormDemo";
-
+import React from "react";
+import { FormDemo } from "./FormDemo";
 function App() {
   return (
     <div>
-        <FormDemo />
+      <FormDemo />
     </div>
   );
 }
